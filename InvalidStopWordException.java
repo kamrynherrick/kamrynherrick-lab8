@@ -1,6 +1,6 @@
 
 //raised when stopword is not found in the text
-public class InvalidStopWordException extends Exception {
+public class InvalidStopwordException extends Exception {
 
     //creates a nessage that includes the stopword that couldn't be dound
     public InvalidStopwordException(String stopword) {

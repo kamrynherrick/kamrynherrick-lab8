@@ -1,0 +1,2 @@
+Enter 1 for file, 2 for text:
+TooSmallText: Only found 2 words.
